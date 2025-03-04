@@ -28,7 +28,7 @@ A cross-platform Python application to detect malicious IP addresses by checking
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/[USERNAME]/threatcheck.git
+   git clone https://github.com/aoldn/threatcheck.git
    cd threatcheck
 
 #Install Dependacies
