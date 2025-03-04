@@ -22,7 +22,7 @@ A cross-platform Python application to detect malicious IP addresses by checking
 ## Installation
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.8+ (IDLE)
 - [AbuseIPDB API Key](https://www.abuseipdb.com/api) (Free tier available)
 
 ### Steps
@@ -30,6 +30,8 @@ A cross-platform Python application to detect malicious IP addresses by checking
    ```bash
    git clone https://github.com/aoldn/threatcheck.git
    cd threatcheck
+   Please paste the code (threat_check.py) on IDLE and click Run Module.
+   Enter the API Key once the application shows up and click 'Run Check'.
 
 #Install Dependacies
 pip install -r requirements.txt
