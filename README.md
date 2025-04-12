@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-green)
 [![License](https://img.shields.io/badge/License-MIT-orange)](LICENSE)
 
-A cross-platform Python application to detect malicious IP addresses by checking active network connections against **AbuseIPDB**'s threat intelligence database. Developed for the Payhawk IT Helpdesk Engineer role.
+A cross-platform Python application to detect malicious IP addresses by checking active network connections against **AbuseIPDB**'s threat intelligence database. 
 
 ---
 
